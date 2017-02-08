@@ -1,0 +1,142 @@
+CCQEL_MU
+-nEvents 5297, nCorrect 4548, fCorrect 85.8599%
+CCQEL_MU_P
+-nEvents 7366, nCorrect 5857, fCorrect 79.514%
+CCQEL_MU_P_P
+-nEvents 405, nCorrect 256, fCorrect 63.2099%
+CCQEL_MU_P_P_P
+-nEvents 69, nCorrect 38, fCorrect 55.0725%
+CCQEL_MU_P_P_P_P
+-nEvents 13, nCorrect 7, fCorrect 53.8462%
+CCQEL_E
+-nEvents 41, nCorrect 23, fCorrect 56.0976%
+CCQEL_E_P
+-nEvents 59, nCorrect 35, fCorrect 59.322%
+CCQEL_E_P_P
+-nEvents 2, nCorrect 1, fCorrect 50%
+NCQEL_P
+-nEvents 1361, nCorrect 843, fCorrect 61.9398%
+NCQEL_P_P
+-nEvents 77, nCorrect 48, fCorrect 62.3377%
+NCQEL_P_P_P
+-nEvents 15, nCorrect 8, fCorrect 53.3333%
+NCQEL_P_P_P_P
+-nEvents 4, nCorrect 2, fCorrect 50%
+CCRES_MU
+-nEvents 175, nCorrect 146, fCorrect 83.4286%
+CCRES_MU_P
+-nEvents 625, nCorrect 491, fCorrect 78.56%
+CCRES_MU_P_P
+-nEvents 677, nCorrect 465, fCorrect 68.6854%
+CCRES_MU_P_P_P
+-nEvents 282, nCorrect 158, fCorrect 56.0284%
+CCRES_MU_P_P_P_P
+-nEvents 107, nCorrect 49, fCorrect 45.7944%
+CCRES_MU_P_P_P_P_P
+-nEvents 30, nCorrect 7, fCorrect 23.3333%
+CCRES_MU_PIPLUS
+-nEvents 1621, nCorrect 1150, fCorrect 70.9439%
+CCRES_MU_P_PIPLUS
+-nEvents 2198, nCorrect 1377, fCorrect 62.6479%
+CCRES_MU_P_P_PIPLUS
+-nEvents 257, nCorrect 132, fCorrect 51.3619%
+CCRES_MU_P_P_P_PIPLUS
+-nEvents 22, nCorrect 10, fCorrect 45.4545%
+CCRES_MU_P_P_P_P_PIPLUS
+-nEvents 7, nCorrect 1, fCorrect 14.2857%
+CCRES_MU_PHOTON
+-nEvents 34, nCorrect 22, fCorrect 64.7059%
+CCRES_MU_P_PHOTON
+-nEvents 70, nCorrect 35, fCorrect 50%
+CCRES_MU_P_P_PHOTON
+-nEvents 10, nCorrect 6, fCorrect 60%
+CCRES_MU_P_P_P_PHOTON
+-nEvents 2, nCorrect 1, fCorrect 50%
+CCRES_MU_P_P_P_P_PHOTON
+-nEvents 1, nCorrect 1, fCorrect 100%
+CCRES_MU_PIZERO
+-nEvents 313, nCorrect 129, fCorrect 41.2141%
+CCRES_MU_P_PIZERO
+-nEvents 741, nCorrect 249, fCorrect 33.6032%
+CCRES_MU_P_P_PIZERO
+-nEvents 180, nCorrect 63, fCorrect 35%
+CCRES_MU_P_P_P_PIZERO
+-nEvents 11, nCorrect 3, fCorrect 27.2727%
+CCRES_MU_P_P_P_P_PIZERO
+-nEvents 7, nCorrect 1, fCorrect 14.2857%
+CCRES_MU_P_P_P_P_P_PIZERO
+-nEvents 4, nCorrect 0, fCorrect 0%
+CCRES_E
+-nEvents 1, nCorrect 1, fCorrect 100%
+CCRES_E_P
+-nEvents 4, nCorrect 4, fCorrect 100%
+CCRES_E_P_P
+-nEvents 5, nCorrect 2, fCorrect 40%
+CCRES_E_P_P_P
+-nEvents 1, nCorrect 0, fCorrect 0%
+CCRES_E_PIPLUS
+-nEvents 9, nCorrect 6, fCorrect 66.6667%
+CCRES_E_P_PIPLUS
+-nEvents 24, nCorrect 10, fCorrect 41.6667%
+CCRES_E_P_P_PIPLUS
+-nEvents 2, nCorrect 1, fCorrect 50%
+CCRES_E_PIZERO
+-nEvents 4, nCorrect 3, fCorrect 75%
+CCRES_E_P_PIZERO
+-nEvents 4, nCorrect 0, fCorrect 0%
+CCRES_E_P_P_PIZERO
+-nEvents 3, nCorrect 0, fCorrect 0%
+CCRES_E_P_P_P_PIZERO
+-nEvents 1, nCorrect 1, fCorrect 100%
+NCRES_P
+-nEvents 331, nCorrect 219, fCorrect 66.1631%
+NCRES_P_P
+-nEvents 197, nCorrect 121, fCorrect 61.4213%
+NCRES_P_P_P
+-nEvents 76, nCorrect 41, fCorrect 53.9474%
+NCRES_P_P_P_P
+-nEvents 28, nCorrect 13, fCorrect 46.4286%
+NCRES_P_P_P_P_P
+-nEvents 2, nCorrect 0, fCorrect 0%
+NCRES_PIPLUS
+-nEvents 285, nCorrect 114, fCorrect 40%
+NCRES_P_PIPLUS
+-nEvents 91, nCorrect 34, fCorrect 37.3626%
+NCRES_P_P_PIPLUS
+-nEvents 16, nCorrect 8, fCorrect 50%
+NCRES_PIMINUS
+-nEvents 120, nCorrect 60, fCorrect 50%
+NCRES_P_PIMINUS
+-nEvents 277, nCorrect 167, fCorrect 60.2888%
+NCRES_P_P_PIMINUS
+-nEvents 49, nCorrect 28, fCorrect 57.1429%
+NCRES_P_P_P_PIMINUS
+-nEvents 4, nCorrect 1, fCorrect 25%
+NCRES_P_P_P_P_PIMINUS
+-nEvents 2, nCorrect 0, fCorrect 0%
+NCRES_PHOTON
+-nEvents 58, nCorrect 28, fCorrect 48.2759%
+NCRES_P_PHOTON
+-nEvents 47, nCorrect 17, fCorrect 36.1702%
+NCRES_P_P_PHOTON
+-nEvents 4, nCorrect 3, fCorrect 75%
+NCRES_PIZERO
+-nEvents 611, nCorrect 212, fCorrect 34.6972%
+NCRES_P_PIZERO
+-nEvents 469, nCorrect 167, fCorrect 35.6077%
+NCRES_P_P_PIZERO
+-nEvents 76, nCorrect 23, fCorrect 30.2632%
+NCRES_P_P_P_PIZERO
+-nEvents 7, nCorrect 1, fCorrect 14.2857%
+NCRES_P_P_P_P_PIZERO
+-nEvents 1, nCorrect 0, fCorrect 0%
+CCDIS
+-nEvents 2837, nCorrect 1343, fCorrect 47.3387%
+NCDIS
+-nEvents 938, nCorrect 390, fCorrect 41.5778%
+CCCOH
+-nEvents 96, nCorrect 70, fCorrect 72.9167%
+NCCOH
+-nEvents 84, nCorrect 34, fCorrect 40.4762%
+OTHER_INTERACTION
+-nEvents 1381, nCorrect 628, fCorrect 45.4743%

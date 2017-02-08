@@ -1,0 +1,32 @@
+CCQEL_MU
+-nEvents 13184, nCorrect 10072, fCorrect 0.763956
+CCQEL_MU_P
+-nEvents 10813, nCorrect 5880, fCorrect 0.54379
+CCQEL_MU_P_P
+-nEvents 757, nCorrect 282, fCorrect 0.372523
+NCQEL_P
+-nEvents 2179, nCorrect 1212, fCorrect 0.556218
+NCQEL_P_P
+-nEvents 132, nCorrect 52, fCorrect 0.393939
+CCRES_MU_PIPLUS
+-nEvents 1495, nCorrect 581, fCorrect 0.388629
+CCRES_MU_P_PIPLUS
+-nEvents 2896, nCorrect 944, fCorrect 0.325967
+CCRES_MU_P_P_PIPLUS
+-nEvents 451, nCorrect 91, fCorrect 0.201774
+CCRES_MU_PIZERO
+-nEvents 300, nCorrect 59, fCorrect 0.196667
+CCRES_MU_P_PIZERO
+-nEvents 767, nCorrect 87, fCorrect 0.113429
+CCRES_MU_P_P_PIZERO
+-nEvents 170, nCorrect 10, fCorrect 0.0588235
+NCRES_P_PIPLUS
+-nEvents 121, nCorrect 36, fCorrect 0.297521
+NCRES_P_P_PIPLUS
+-nEvents 18, nCorrect 3, fCorrect 0.166667
+NCRES_P_PIZERO
+-nEvents 392, nCorrect 66, fCorrect 0.168367
+NCRES_P_P_PIZERO
+-nEvents 76, nCorrect 5, fCorrect 0.0657895
+OTHER_INTERACTION
+-nEvents 57145, nCorrect 9849, fCorrect 0.172351
