@@ -219,7 +219,8 @@ void GetInteractionList(std::vector<std::string> &dataSets, std::vector<std::str
 int countSubstring(const std::string& str, const std::string& sub){
     if (sub.length() == 0) return 0;
     int count = 0;
-    for (size_t offset = str.find(sub); offset != std::string::npos; offset = str.find(sub, offset + sub.length())) {
+    //for (size_t offset = str.find(sub); offset != std::string::npos; offset = str.find(sub, offset + sub.length())) {
+    for (size_t offset = str.find(sub); offset != std::string::npos; offset = str.find(sub, offset + 1)) {
         ++count;
     }
     return count;
@@ -315,9 +316,8 @@ std::string GetTeX(std::string str){
         }
     }
 
-    std::string retStr;
+    std::string retStr = ss.str();
 
-    ss >> retStr;
     return retStr;
 }
 
