@@ -6,12 +6,13 @@ You should just be able to build with `make TeXTable`
 ## Running
 TeXTable takes two (or more) arguments
 
-1. A settings file
+- A settings file
     - An example is `settings.txt`
     - Start a new table definition with 
 ```
 > myTableName
 ```
+
     - Then supply the following parameters
         - `data` - path to a data file obtained from Validation.C
             - You can also supply two data file paths (delimited by a comma) which will then return a "comparison" table between the two sets
@@ -25,7 +26,7 @@ interactions: CCQEL_MU + CCQEL_MU_P
 ```
 interactions: all - OTHER_INTERACTIONS
 ```
-2. (3... 4...) As many data files as you require for the settings supplied
+- (3... 4...) As many data files as you require for the settings supplied
     - The data files come from the format of the "map" files from Validation.C
     - You can massage them into the right format using `helpers/scrapeData.sh`
     - See the `data` subdirectory for details
