@@ -17,7 +17,7 @@ TeXTable takes two (or more) arguments
             - You can list interactions to include delimited by a `+`
             - You can also use the keyword `all` and list interactions to omit delimited by `-` 
             - `interactions: CCQEL_MU + CCQEL_MU_P`
-            - `interactions: all - OTHER_INTERACTIONS
+            - `interactions: all - OTHER_INTERACTIONS`
 - As many data files as you require for the settings supplied
     - The data files come from the format of the "map" files from Validation.C
     - You can massage them into the right format using `helpers/scrapeData.sh`
